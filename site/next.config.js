@@ -2,15 +2,15 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'Devick Kasm workspaces',
+    description: 'The official store for devick kasm workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://devick.github.io/kasm_repository/',
+    contactUrl: 'https://devick.github.io/kasm_repository/',
   },
   reactStrictMode: true,
   swcMinify: true,
-  basePath: '/kasm-registry/1.0',
+  basePath: '/kasm_registry/1.0',
   trailingSlash: true,
   images: {
     unoptimized: true,
